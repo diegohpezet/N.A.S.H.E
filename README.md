@@ -3,7 +3,7 @@
  <img width=700px height=250px src="https://imgur.com/nWJHEwS.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Manual de Usuario</h1>
+<h1 align="center">Notificador Automatico Sensorial de Heces Excretadas</h1>
 
 </p>
 
