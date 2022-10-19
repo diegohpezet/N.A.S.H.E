@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=700px height=250px src="https://imgur.com/nWJHEwS.png" alt="Project logo"></a>
+ <img width=700px height=250px src="https://imgur.com/3Oe17xB.png" alt="Project logo"></a>
 </p>
 
 <h1 align="center">Notificador Automatico Sensorial de Heces Excretadas</h1>
