@@ -46,9 +46,10 @@
 
 3. `Conectar el dispositivo con el celular por medio de bluetooth`
 
-  ![Step3](https://imgur.com/ievtdRH.png)
+<img width=450px height=850px src=https://imgur.com/ievtdRH.png>
 
 4. `Disfrute de N.A.S.H.E`
+
 
 
 ## 🛠 Equipo <a name = "authors"></a>
