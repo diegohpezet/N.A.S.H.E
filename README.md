@@ -23,6 +23,8 @@
 
 - [Introduccion](#about)
 
+- [Documentacion Tecnica](https://github.com/diegohpezet/N.A.S.H.E/tree/main/docs)
+
 - [Como usarlo](#getting_started)
 
 - [Equipo](#authors)
