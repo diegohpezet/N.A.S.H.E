@@ -19,6 +19,13 @@
 </div>
 </p>
 
-# Codigo del Dispositivo 
+## Codigo/Informacion del Dispositivo 
+
+- Sensor Bluetooth HC-05
+- Sensor de humedad DHT11
+- Sensor Gas Metano MQ-4
+- Arduino Uno
+- Protoboard
+- Cables de Conexion 
 
 <img src="Muestra_NASHE.png" alt="Project logo"></a>
