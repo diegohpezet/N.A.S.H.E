@@ -18,3 +18,8 @@
   
 </div>
 </p>
+
+# Introduccion 
+
+- Los archivos aqui alojados son los correspondientes a informes, diagramas, documentos ETC.
+
